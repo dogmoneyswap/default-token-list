@@ -161,6 +161,19 @@
   dependencies:
     chalk "^4.0.0"
 
+"@dogmoneyswap/sdk@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@dogmoneyswap/sdk/-/sdk-0.0.1.tgz#e0fd8dbd97f1991c3aa04dfdf6a255a1779de836"
+  integrity sha512-4o/9D2JBewn+YQjQrFZyv9k1blyhMuYegpvmy1LTW+zSx3D2xDsq0C6ZtWhFH0kg9d3K2HvdtE8kQznisWVWRw==
+  dependencies:
+    big.js "^6.1.0"
+    decimal.js-light "^2.5.0"
+    isomorphic-unfetch "^3.1.0"
+    jsbi "^3.1.0"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@ethersproject/address@^5.0.2":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@ethersproject/address/-/address-5.0.8.tgz#0c551659144a5a7643c6bea337149d410825298f"
@@ -273,19 +286,6 @@
     "@ethersproject/bytes" "^5.3.0"
     "@ethersproject/constants" "^5.3.0"
     "@ethersproject/logger" "^5.3.0"
-
-"@mistswapdex/sdk@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@mistswapdex/sdk/-/sdk-0.0.2.tgz#de18c4308a99e5b310e6f40478a0c0a2a62b48f8"
-  integrity sha512-9wzUk+yFxV7p/B65XWU3aRs/111fswLucds8KzGmXa80vYZMjH9Q3qcovLAMF44fq3tGw1YVTaOJu4/rxUpd+w==
-  dependencies:
-    big.js "^6.1.0"
-    decimal.js-light "^2.5.0"
-    isomorphic-unfetch "^3.1.0"
-    jsbi "^3.1.0"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
 
 "@octokit/auth-token@^2.4.4":
   version "2.4.5"

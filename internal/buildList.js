@@ -1,12 +1,11 @@
 const { version } = require("../package.json");
 
-const bch = require("../tokens/smartbch.json");
-const bchAmber = require("../tokens/smartbch-amber.json");
+const dogechain = require("../tokens/dogechain.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "MISTswap Menu",
+    name: "DogMoney Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -15,11 +14,10 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/mistswapdex/art/master/mist/logo-256x256.png",
-    keywords: ["mistswap", "default"],
+      "https://raw.githubusercontent.com/dogmoneyswap/art/master/dogmoney/logo-256x256.png",
+    keywords: ["dogmoney", "default"],
     tokens: [
-      ...bch,
-      ...bchAmber,
+      ...dogechain,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

@@ -1,14 +1,14 @@
-# @mistswapdex/default-token-list
+# @dogmoneyswap/default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the MISTswap interface.
+This NPM module and GitHub repo contains the default token list used in the DogMoneySwap interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
   + Open PR adding your token to the list (git clone, yarn install)
-  + [Add PR](https://github.com/mistswapdex/assets) with corresponding logo in under the correct blockchain folder
+  + [Add PR](https://github.com/dogmoneyswap/assets) with corresponding logo in under the correct blockchain folder
 
-You must have at least 5 BCH of liquidity on MistSwap to get added to the default list.
+You must have at least 100 DOGE of liquidity on DogMoneySwap to get added to the default list.
 
 ### Disclaimer
 

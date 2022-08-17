@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Dog Money",
+    "address": "0x95d366dC75eE657A977683d84546163B4E905a15",
+    "symbol": "DOGMONEY",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/smartbch/assets/0x95d366dC75eE657A977683d84546163B4E905a15/logo.png"
+  }
+]
