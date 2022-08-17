@@ -5,6 +5,38 @@
     "symbol": "DOGMONEY",
     "decimals": 18,
     "chainId": 2000,
-    "logoURI": "https://assets.dogmoney.money/blockchains/smartbch/assets/0x95d366dC75eE657A977683d84546163B4E905a15/logo.png"
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x95d366dC75eE657A977683d84546163B4E905a15/logo.png"
+  },
+  {
+    "name": "Staked Dog Money",
+    "address": "0x5108E68a50CFA3306c643Af1BC8b105597c823d9",
+    "symbol": "xDOGMONEY",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x5108E68a50CFA3306c643Af1BC8b105597c823d9/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "symbol": "DAI",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
   }
 ]
