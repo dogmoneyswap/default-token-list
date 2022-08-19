@@ -56,7 +56,7 @@
     "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
   },
   {
-    "name": "DOGEP",
+    "name": "DogePrint",
     "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
     "symbol": "DOGEP",
     "decimals": 6,
