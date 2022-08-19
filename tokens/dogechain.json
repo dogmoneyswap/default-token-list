@@ -1,19 +1,19 @@
 [
   {
     "name": "Dog Money",
-    "address": "0x95d366dC75eE657A977683d84546163B4E905a15",
+    "address": "0x93C8a00416dD8AB9701fa15CA120160172039851",
     "symbol": "DOGMONEY",
     "decimals": 18,
     "chainId": 2000,
-    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x95d366dC75eE657A977683d84546163B4E905a15/logo.png"
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x93C8a00416dD8AB9701fa15CA120160172039851/logo.png"
   },
   {
     "name": "Staked Dog Money",
-    "address": "0x5108E68a50CFA3306c643Af1BC8b105597c823d9",
+    "address": "0xC5c70fA7A518bE9229eB0Dc84e70a91683694562",
     "symbol": "xDOGMONEY",
     "decimals": 18,
     "chainId": 2000,
-    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x5108E68a50CFA3306c643Af1BC8b105597c823d9/logo.png"
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xC5c70fA7A518bE9229eB0Dc84e70a91683694562/logo.png"
   },
   {
     "name": "Dai Stablecoin",
