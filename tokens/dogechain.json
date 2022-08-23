@@ -115,7 +115,7 @@
     "name": "Dogira",
     "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
     "symbol": "DOGIRA",
-    "decimals": 18,
+    "decimals": 9,
     "chainId": 2000,
     "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA/logo.png"
   }
