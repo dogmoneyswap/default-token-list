@@ -118,5 +118,13 @@
     "decimals": 9,
     "chainId": 2000,
     "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA/logo.png"
+  },
+  {
+    "name": "NotDoge",
+    "address": "0x8578D10a6ef7d26f5AB014138BCC2e3c49331255",
+    "symbol": "NotDoge",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x8578D10a6ef7d26f5AB014138BCC2e3c49331255/logo.png"
   }
 ]
