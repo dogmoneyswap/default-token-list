@@ -134,5 +134,13 @@
     "decimals": 18,
     "chainId": 2000,
     "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
+  },
+  {
+    "name": "Xolos",
+    "address": "0xe0E39d40b9e10499eF891A5B6d0DcEEb65ab1675",
+    "symbol": "RMZ",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xe0E39d40b9e10499eF891A5B6d0DcEEb65ab1675/logo.png"
   }
 ]
