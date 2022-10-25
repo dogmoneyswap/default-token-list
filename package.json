@@ -1,6 +1,6 @@
 {
   "name": "@dogmoneyswap/default-token-list",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "◦ The DogMoney default token list",
   "main": "build/dogmoney-default.tokenlist.json",
   "scripts": {
